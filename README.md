@@ -1,6 +1,10 @@
 # Remove Paywall
 ### using [12ft.io](https://12ft.io/)
 
+## Installation
+
+[Installation Instructions](https://dev.to/ben/how-to-install-chrome-extensions-manually-from-github-1612){:target="_blank"}
+
 ## Demo
 
 #### Before
