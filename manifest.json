@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "My URL changer",
+  "version": "1.0",
+  "description": "This extension changes the current URL",
+  "permissions": ["tabs"],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_title": "Change URL"
+  }
+}
